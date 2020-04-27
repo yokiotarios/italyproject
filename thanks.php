@@ -1,5 +1,5 @@
 <?php
-$fb = $_GET['fb'];
+$fb = $_GET['utm_source'];
 if ( empty($fb) ) {
     $fb = 0;
 } 
@@ -7,12 +7,12 @@ if ( empty($fb) ) {
 
 <!DOCTYPE html>
 
-<html lang="ru" class="no-js">
+<html lang="ru" class="no-js" dir="ltr">
 <head>
-  <title>Thank you for your order | Lazard</title>
+  <title> Grazie per l’ordine | Lazard </title>
 
   <!-- META -->
-  <meta charset="utf-8">
+  <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <!-- Fonts -->
@@ -22,21 +22,21 @@ if ( empty($fb) ) {
 
   <!--[if lt IE 9]>
     <link rel="stylesheet" href="assets2/css/ie/ie8-and-down.css" />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/livingston-css3-mediaqueries-js/1.0.0/css3-mediaqueries.min.js"></script>
+    <script src="cdn/html5shiv.min.js"></script>
+    <script src="cdn/css3-mediaqueries.min.js"></script>
   <![endif]-->
 
   <!-- Connect CSS files -->
   <link rel="stylesheet" href="assets2/css/fonts.css" type="text/css">
   <link rel="stylesheet" href="assets2/css/main.css" type="text/css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css" type="text/css">
+  <link rel="stylesheet" href="cdn/normalize.min.css" type="text/css">
   <link rel="stylesheet" href="assets2/css/font-size.min.css" type="text/css">
   <link rel="stylesheet" href="assets2/css/style.css" type="text/css">
   <link rel="stylesheet" href="assets2/css/media.css" type="text/css">
 
   <!-- Connect Jquery & Java files -->
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-  <img src="https://www.facebook.com/tr?id=<?php echo $fb; ?>>&amp;ev=Lead" height="1" width="1" style="display:none"/>
+  <script type="text/javascript" src="cdn/jquery.min.js"></script>
+  <img src="https://www.facebook.com/tr?id=<?php echo $fb; ?>>&amp;ev=SubmitApplication" height="1" width="1" style="display:none"/>
 </head>
 
 <body>
@@ -45,7 +45,7 @@ if ( empty($fb) ) {
     <div class="wrap">
       <div class="flex-container">
         <a href="#" target="_blank"><img src="assets2/images/logo_s.svg" class="logo-s"></a>
-        <span class="px14 dgray">Toko online resmi  <span class="pnl product-about">"<span class="product-name pnbd">offer</span> — category"</span></span>
+        <span class="px14 dgray"> Store ufficiale online   <span class="pnl product-about"> &quot; <span class="product-name pnbd"> offerta </span>  — categoria&quot; </span></span>
       </div>
     </div>
   </header>
@@ -58,9 +58,9 @@ if ( empty($fb) ) {
       <div class="merged-blocks flex-container">
         <div class="left-block">
 
-          <p class="pnbd px40"><span class="user-name"><?php echo $_GET['name']  ?></span>, <br>Thank you for your order!</p>
-          <p class="you-order pnbd px18 green">Your order №<span class="order-number"><?php echo rand(123456,951753); ?></span> has been successfully accepted</p>
-          <p class="pnl">The brand representative will contact you at tel. <nobr><span class="pnbd user-phone"><?php echo $_GET['phone']  ?></span></nobr> in a few minutes, consult you on all the questions and help to issue delivery.
+          <p class="pnbd px40"><span class="user-name"><?php echo $_GET['name']  ?></span> ,  <br> Grazie per il tuo ordine! </p>
+          <p class="you-order pnbd px18 green"> Il tuo ordine № <span class="order-number"><?php echo rand(123456,951753); ?></span>  è stato accettato </p>
+          <p class="pnl"> Un rappresentante del marchio ti contatterà telefonicamente  <nobr><span class="pnbd user-phone"><?php echo $_GET['phone']  ?></span></nobr>  tra pochi minuti, ti aiuterà con tutte le tue domande ed emetterà l&#039;ordine di spedizione. 
           </p>
 
         </div>
@@ -72,17 +72,17 @@ if ( empty($fb) ) {
             <div class="flex-container">
               <img src="assets2/images/product.png" class="product-img">
               <div>
-                <p class="pnl px14 gray-bg">You order:</p>
-                <p class="pnl px24"><span class="product-name pnbd">offer</span> <br><span class="pnl px14 product-description">category</span></p>
+                <p class="pnl px14 gray-bg"> Il tuo ordine: </p>
+                <p class="pnl px24"><span class="product-name pnbd"> offerta </span> <br><span class="pnl px14 product-description"> categoria </span></p>
               </div>
             </div>
             <div class="miniblocks flex-container">
               <div class="info-faq-miniblock flex-container">
                 <div>
-                  <nobr><img src="assets2/images/faq.svg" class="faq-icon"><a href="#faq">frequently asked questions</a></nobr>
+                  <nobr><img src="assets2/images/faq.svg" class="faq-icon"><a href="#faq"> domande frequenti (FAQ) </a></nobr>
                 </div>
                 <div>
-                  <nobr><img src="assets2/images/info.svg" class="info-icon"><a href="#about">information about the manufacturer</a></nobr>
+                  <nobr><img src="assets2/images/info.svg" class="info-icon"><a href="#about"> informazioni sul produttore </a></nobr>
                 </div>
               </div>
             </div>
@@ -96,14 +96,14 @@ if ( empty($fb) ) {
         <div class="additional-products left-block">
           <div class="flex-container">
             <img src="assets2/images/money-back.svg" alt="">
-            <p class="pnl px14 lh140"><span class="px18 pnbd">100% result guarantee</span><br>Result guarantee is valid only in case of compliance with all recommendations of specialists concerning duration and application methods of <span class="product-name">"offer"</span></p>
+            <p class="pnl px14 lh140"><span class="px18 pnbd"> Risultato garantito al 100% </span><br> La garanzia sul risultato si applica solo in caso di conformità a tutte le raccomandazioni degli specialisti riguardo la durata e i metodi dell&#039;applicazione di  <span class="product-name"> &quot;offerta&quot; </span></p>
           </div>
         </div>
 
         <div class="additional-products right-block">
           <div class="additional-products flex-container">
             <img src="assets2/images/additional.svg" alt="">
-            <p class="pnl px14 lh140"><span class="px18 pnbd">Clinically proven</span><br>The efficiency and safety of "offer" were proved by clinical tests  <span class="product-name">"offer"</span> доказана клиническими испытаниями<br><span class="pnbd px8 upp lgray2">WCT TEST REPORT: WT-92772323432-HF-18</span></p>
+            <p class="pnl px14 lh140"><span class="px18 pnbd"> Clinicamente testato </span><br> L&#039;efficacia e la sicurezza di &quot;offerta&quot; sono dimostrate da test clinici   <span class="product-name"> &quot;offerta&quot; </span>  Clinicamente testato <br><span class="pnbd px8 upp lgray2"> WCT TEST REPORT: WT-92772323432-HF-18 </span></p>
           </div>
         </div>
       </div>
@@ -118,14 +118,14 @@ if ( empty($fb) ) {
   <div class="block about" id="about">
     <div class="wrap">
 
-      <p class="pnl px32 no-padding"><span class="product-name pnbd">offer</span> — is manufacturer's flagship product you can trust</p>
+      <p class="pnl px32 no-padding"><span class="product-name pnbd"> &quot;offerta&quot; </span>  — è il prodotto di punta dell&#039;affidabile produttore </p>
 
       <div class="about-container flex-container">
 
         <div class="address">
           <img src="assets2/images/logo_b.svg" alt="" class="logo">
-          <p class="px13 lh140">Lazard inc. <br>Grenzacherstrasse 124, floor 9-16 <br>4058 Basel, Switzerland</p>
-          <p class="px13 lh140">Phone: <span class="about-phone"><a href="tel:+62 21 5727585">+62 21 5727585</a></span><br><span class="about-website"><a target="_blank" href="lazardhealthcare.com">lazardhealthcare.com</a></span></p>
+          <p class="px13 lh140"> Lazard inc.  <br> Grenzacherstrasse 124, floor 9-16  <br> 4058 Basel, Svizzera </p>
+          <p class="px13 lh140"> Telefono:  <span class="about-phone"><a href="tel:+62 21 5727585"> +62 21 5727585 </a></span><br><span class="about-website"><a target="_blank" href="lazardhealthcare.com"> lazardhealthcare.com </a></span></p>
         </div>
 
         <div class="merged-blocks">
@@ -148,15 +148,15 @@ if ( empty($fb) ) {
             <div class="flex-container">
               <div>
                 <img src="assets2/images/ico4.svg" alt="">
-                <p class="px13 lh140">The highest quality of product and service</p>
+                <p class="px13 lh140"> La massima qualità in termini di prodotto e servizio </p>
               </div>
               <div>
                 <img src="assets2/images/ico5.svg" alt="">
-                <p class="px13 lh140">28 yeas on "Beauty and Health" market</p>
+                <p class="px13 lh140"> 28 anni nel settore &quot;Salute e Bellezza&quot; </p>
               </div>
               <div>
                 <img src="assets2/images/ico6.svg" alt="">
-                <p class="px13 lh140">European standards of production</p>
+                <p class="px13 lh140"> Standard di produzione europei </p>
               </div>
             </div>
           </div>

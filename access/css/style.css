@@ -1,0 +1,465 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap');
+
+*:root{
+    font-family: 'Roboto', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.wrapper{
+    max-width: 600px;
+    margin: 0 auto;
+}
+.head{
+    height: 60px;
+    background: linear-gradient(293.73deg, rgba(0, 153, 187, 0.93) 6.99%, rgba(3, 117, 202, 0.93) 59.01%, rgba(4, 43, 142, 0.93) 103.95%);   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 24px;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.logo img{
+    border-radius: 50%;
+    margin-right: 15px;
+    max-height: 68%;
+}
+
+.logo p{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.main{
+    padding: 10px;
+}
+
+.main>h1{
+    padding-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.main>h2{
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.main>.desc{
+    font-style: italic;
+    color: rgb(133, 133, 133);
+    font-size: 15px;
+    text-align: right;
+    margin: 10px 0;
+    padding-bottom: 20px;
+}
+
+.main>p{
+    font-size: 17px;
+    line-height: 23px;
+    padding-bottom: 20px;
+}
+
+.main>img{
+    max-width: 100%;
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+.main a{
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(0, 177, 231);
+}
+
+
+
+
+
+
+
+.comenti {
+    margin-bottom: 30px
+}
+
+.coma {
+    display: flex;
+    font-family: Tahoma, sans-serif;
+    font-size: 13px;
+    line-height: 16px;
+    margin: 0 10px;
+    margin-top: 10px
+}
+
+.coma + .coma {
+    border-top: 1px solid #e2e2e2;
+    padding-top: 10px
+}
+
+.coma .col-avatar {
+    flex: 0 0;
+    margin-right: 10px
+}
+
+.coma .col-avatar img {
+    width: 50px
+}
+
+.coma .col-comm-text {
+    flex: 1 1 auto
+}
+
+.coma .nickname {
+    margin: 0
+}
+
+.coma .nickname a {
+    color: #3b5998;
+    text-decoration: none;
+    font-weight: bold
+}
+
+.coma .comment {
+    padding-top: 5px;
+    margin: 0 28px 5px 0
+}
+
+.coma .comimg {
+    display: block;
+    margin: 10px 0;
+    width: 70%
+}
+
+.coma .respond {
+    text-decoration: none;
+    color: #3b5998
+}
+
+.coma .date {
+    border-bottom: 1px dotted gray;
+    color: gray
+}
+
+.popup {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, .7);
+    justify-content: center;
+    z-index: 1000;
+    overflow: auto
+}
+
+.popup.shown {
+    display: flex
+}
+
+.popup .buynow {
+    margin: auto;
+    width: 310px;
+    padding: 10px;
+    background: #fff;
+    border: 4px solid #f11;
+    text-align: center;
+    border-radius: 6px
+}
+
+.popup .buynow h2 {
+    margin: 0;
+    color: #f11;
+    font-size: 31px
+}
+
+.popup .buynow img {
+    margin: 16px 0
+}
+
+.popup #close-popup {
+    color: #fff;
+    font-size: 64px;
+    position: absolute;
+    z-index: 50000;
+    right: 10px;
+    top: 10px;
+    line-height: 1;
+    text-decoration: none
+}
+
+.notobene {
+    border-left: 5px solid #ed1b24;
+    padding: 10px;
+    font-size: 20px !important;
+    line-height: 25px !important;
+    background: #fde7e8
+}
+
+.best-form {
+    font: 16px/1.2 "Open Sans", sans-serif;
+    padding: 1rem;
+    padding-bottom: 40px;
+    color: #fff;
+    background-color: #fa0;
+    background-image: url(data:image/svg+xml,%3Csvg\ xmlns=\'http://www.w3.org/2000/svg\'\ width=\'100%25\'\ height=\'100%25\'\ viewBox=\'0\ 0\ 1600\ 800\'%3E%3Cg\ %3E%3Cpath\ fill=\'%23ffb803\'\ d=\'M486\ 705.8c-109.3-21.8-223.4-32.2-335.3-19.4C99.5\ 692.1\ 49\ 703\ 0\ 719.8V800h843.8c-115.9-33.2-230.8-68.1-347.6-92.2C492.8\ 707.1\ 489.4\ 706.5\ 486\ 705.8z\'/%3E%3Cpath\ fill=\'%23ffc607\'\ d=\'M1600\ 0H0v719.8c49-16.8\ 99.5-27.8\ 150.7-33.5c111.9-12.7\ 226-2.4\ 335.3\ 19.4c3.4\ 0.7\ 6.8\ 1.4\ 10.2\ 2c116.8\ 24\ 231.7\ 59\ 347.6\ 92.2H1600V0z\'/%3E%3Cpath\ fill=\'%23ffd40c\'\ d=\'M478.4\ 581c3.2\ 0.8\ 6.4\ 1.7\ 9.5\ 2.5c196.2\ 52.5\ 388.7\ 133.5\ 593.5\ 176.6c174.2\ 36.6\ 349.5\ 29.2\ 518.6-10.2V0H0v574.9c52.3-17.6\ 106.5-27.7\ 161.1-30.9C268.4\ 537.4\ 375.7\ 554.2\ 478.4\ 581z\'/%3E%3Cpath\ fill=\'%23ffe111\'\ d=\'M0\ 0v429.4c55.6-18.4\ 113.5-27.3\ 171.4-27.7c102.8-0.8\ 203.2\ 22.7\ 299.3\ 54.5c3\ 1\ 5.9\ 2\ 8.9\ 3c183.6\ 62\ 365.7\ 146.1\ 562.4\ 192.1c186.7\ 43.7\ 376.3\ 34.4\ 557.9-12.6V0H0z\'/%3E%3Cpath\ fill=\'%23ffef15\'\ d=\'M181.8\ 259.4c98.2\ 6\ 191.9\ 35.2\ 281.3\ 72.1c2.8\ 1.1\ 5.5\ 2.3\ 8.3\ 3.4c171\ 71.6\ 342.7\ 158.5\ 531.3\ 207.7c198.8\ 51.8\ 403.4\ 40.8\ 597.3-14.8V0H0v283.2C59\ 263.6\ 120.6\ 255.7\ 181.8\ 259.4z\'/%3E%3Cpath\ fill=\'%23ffea34\'\ d=\'M1600\ 0H0v136.3c62.3-20.9\ 127.7-27.5\ 192.2-19.2c93.6\ 12.1\ 180.5\ 47.7\ 263.3\ 89.6c2.6\ 1.3\ 5.1\ 2.6\ 7.7\ 3.9c158.4\ 81.1\ 319.7\ 170.9\ 500.3\ 223.2c210.5\ 61\ 430.8\ 49\ 636.6-16.6V0z\'/%3E%3Cpath\ fill=\'%23ffe547\'\ d=\'M454.9\ 86.3C600.7\ 177\ 751.6\ 269.3\ 924.1\ 325c208.6\ 67.4\ 431.3\ 60.8\ 637.9-5.3c12.8-4.1\ 25.4-8.4\ 38.1-12.9V0H288.1c56\ 21.3\ 108.7\ 50.6\ 159.7\ 82C450.2\ 83.4\ 452.5\ 84.9\ 454.9\ 86.3z\'/%3E%3Cpath\ fill=\'%23ffe157\'\ d=\'M1600\ 0H498c118.1\ 85.8\ 243.5\ 164.5\ 386.8\ 216.2c191.8\ 69.2\ 400\ 74.7\ 595\ 21.1c40.8-11.2\ 81.1-25.2\ 120.3-41.7V0z\'/%3E%3Cpath\ fill=\'%23ffdc64\'\ d=\'M1397.5\ 154.8c47.2-10.6\ 93.6-25.3\ 138.6-43.8c21.7-8.9\ 43-18.8\ 63.9-29.5V0H643.4c62.9\ 41.7\ 129.7\ 78.2\ 202.1\ 107.4C1020.4\ 178.1\ 1214.2\ 196.1\ 1397.5\ 154.8z\'/%3E%3Cpath\ fill=\'%23ffd771\'\ d=\'M1315.3\ 72.4c75.3-12.6\ 148.9-37.1\ 216.8-72.4h-723C966.8\ 71\ 1144.7\ 101\ 1315.3\ 72.4z\'/%3E%3C/g%3E%3C/svg%3E);
+    background-size: cover
+}
+
+.product {
+    display: flex
+}
+
+.product .left {
+    width: 50%
+}
+
+.product .right {
+    width: 50%;
+    text-align: center
+}
+
+.product .discount {
+    background-image: linear-gradient(to right, #ff0, #ffeb3b);
+    color: red;
+    border-radius: 10px;
+    transform: skew(-15deg);
+    font-size: 3.5rem;
+    font-weight: 700;
+    font-style: italic;
+    text-align: center;
+    width: 85%;
+    height: 5rem;
+    line-height: 5rem;
+    letter-spacing: -3px;
+    margin-top: -.3rem
+}
+
+.product .discount div {
+    transform: skew(15deg)
+}
+
+.product .price {
+    color: #ed1b24;
+    font-size: 6rem;
+    font-weight: 700;
+    letter-spacing: -6px;
+    line-height: 1
+}
+
+.product .discount-text {
+    margin-top: 1rem;
+    color: #000;
+    font-size: 18px
+}
+
+.product .price span {
+    font-weight: 300;
+    font-size: 50%;
+    margin-left: 5px
+}
+
+.product .price-old {
+    line-height: 1
+}
+
+.product .price-old span {
+    display: inline-block;
+    padding: 0 1rem;
+    font-size: 3rem;
+    color: #000;
+    position: relative
+}
+
+.product .price-old span:before {
+    position: absolute;
+    content: "";
+    left: 0;
+    top: 45%;
+    right: 0;
+    border-top: 5px solid #ed1b24;
+    transform: rotate(-10deg)
+}
+
+.country-input, .name-input, .phone-input {
+    color: #000;
+    background: #fff;
+    border: 0;
+    width: 100%;
+    border-radius: 6px;
+    box-sizing: border-box;
+    font-size: 20px;
+    margin-bottom: 10px;
+    display: flex;
+    transition: all .15s ease-in-out
+}
+
+.name-input input, .phone-input input {
+    flex: 1 1 auto;
+    border: 0;
+    padding: 0;
+    font: inherit;
+    color: inherit;
+    box-sizing: border-box;
+    min-width: 0;
+    padding: 10px 15px;
+    padding-left: 0;
+    border-radius: 6px
+}
+
+.button-submit:focus, .name-input:focus-within, .phone-input:focus-within {
+    outline: 0;
+    box-shadow: 0 0 0 4px #bdab3c
+}
+
+.name-input:focus-within input, .phone-input:focus-within input {
+    outline: 0
+}
+
+.name-input .country {
+    border-radius: 3px;
+    vertical-align: -2px
+}
+
+.name-input label, .phone-input label {
+    align-self: center;
+    padding-left: 15px;
+    width: 40px;
+    font-weight: bold
+}
+
+.button-submit {
+    display: flex;
+    box-sizing: border-box !important;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 1rem;
+    text-decoration: none;
+    font-family: inherit;
+    font-size: 1.4rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 1;
+    color: #fff;
+    border-radius: 6px;
+    border: 0;
+    padding: 14px 0;
+    background-image: linear-gradient(to top, #137c09, #16ac0c);
+    transition: all .15s ease-in-out;
+    cursor: pointer
+}
+
+.button-submit-text {
+    flex: 1 1 auto
+}
+
+.button-submit-arrow {
+    width: 0;
+    height: 0;
+    border-top: .6rem solid transparent;
+    border-bottom: .6rem solid transparent;
+    border-left: 1rem solid #fff;
+    margin-right: 1rem
+}
+
+.form-title {
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-weight: 300;
+    margin-top: 0
+}
+
+::placeholder {
+    color: #000;
+    opacity: 1;
+    border-bottom: 1px dashed #aaa
+}
+
+.countdown-block {
+    text-align: center;
+    background: #ed1b24;
+    color: #fff;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    border-radius: 15px
+}
+
+.countdown-block > h3 {
+    font-weight: 800;
+    font-size: 36px;
+    padding-top: 5px;
+    margin: 0
+}
+
+.best-form > .wrap {
+    max-width: 320px;
+    margin: 0 auto
+}
+
+.countdown-container {
+    max-width: 320px;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 10px
+}
+
+.countdown-container h3 {
+    color: #fffd07;
+    margin: 0 auto;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 18px
+}
+
+.countdown {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 300;
+    font-size: 39px;
+    line-height: 1
+}
+
+.countdown-item {
+    color: #fff;
+    width: 5rem;
+    font-weight: 800
+}
+
+.countdown-divider {
+    color: #fff;
+    width: 1rem
+}
+
+.countdown-text {
+    margin: 0 auto;
+    margin-bottom: -8px;
+    background: #ed1b24;
+    width: 90%;
+    color: #fffd07;
+    font-size: .8rem;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase
+}
+
+.countdown-text span {
+    width: 4rem;
+    margin-right: 2rem
+}
+
+.countdown-text span:last-child {
+    margin-right: 0
+}

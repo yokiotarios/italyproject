@@ -1,33 +1,13 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "//www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<!-- saved from url=(0067)https://healb.com/preland/sustalol_ruletkanews/?a=hjxmdyimz426hebd# -->
-<html xmlns="//www.w3.org/1999/xhtml" lang="ES">
-<input type="hidden" class="country_code" value="">
-<head><base >
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-<meta content="width=device-width, initial-scale=1" name="viewport">
-<title>Kanabialis</title>
-<link rel="stylesheet" href="assets/css/indexlmcyrsn.css" />
-<link rel="stylesheet" href="assets/css/jsdguifgwsiugiqdgqweifgdqwdqfd.css" />
-<link rel="stylesheet" href="assets/css/sendpulse-prompt.min.css" />
-<link rel="stylesheet" href="assets/css/styles.css" />
-<style>
-  .hide , .flag-dropdown {display: none;}
-  .error-box{
-  color: #fff;
-  background-color: #DE5042;
-  border-radius: 5px;
-  text-align: center;
-  width: 240px;
-  font-size: 13px;
-  line-height: 20px;
-  margin:5px auto !important;
-  z-index: 100;
-}
-</style>
-  <!-- INTH_SNIPPET_TOP -->
-
-  <script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog di Anna Munari</title>
+    <link rel="stylesheet" href="./access/css/reset.css">
+    <link rel="stylesheet" href="./access/css/style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script>
         $(document).ready(function() {
             $("a").click(function() {
             var elementClick = $(this).attr("href")
@@ -40,481 +20,388 @@
 });
 
     </script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(61208590, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/61208590" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+    
+    
 </head>
-
 <body>
-  
-
-<div id="blmcyrsnw" style="overflow: auto; display: block;">
-<header>
-<lmcyrsn class="wraper">
-<div class="logoh1">
-<h1 class="h1logo"><a class="lmcyrsncl2" hre="" data-parent="miss"><span style="color:#F00;" class="geocity">Bogotá</span><!-- : -->&nbsp;Noticias de salud</a></h1>
-</div>
-            <div class="login">
-                  <ul>
-                     <li class="loginli"><a class="lmcyrsncl2" href="#form__block" data-parent="miss"><span class="icon icon-eye-close"></span>Versión para personas con discapacidad visual</a></li>
-                     <li><a class="lmcyrsncl2" href="#form__block" data-parent="miss"><span class="icon icon-bullhorn"></span>RSS</a></li>
-                     <li><a class="lmcyrsncl2" href="#form__block" data-parent="miss"><span class="icon icon-globe"></span>Mapa del sitio</a></li>
-                     <li><a class="lmcyrsncl2" href="#form__block" data-parent="miss"><span class="icon icon-log-in"></span>Entrada</a></li>
-                  </ul>
-             </div>
-
-
-            <div class="form-search pull-right">
-                  <div role="search">
-                     <div class="input-group">
-                        <a class="lmcyrsncl2" href="#form__block" data-parent="miss"><input name="q" id="q" class="form-control input-sm" placeholder="Busque por sitio" type="search"></a>
-                        <span class="input-group-btn"><a href="#form__block" class="btn btn-default btn-sm lmcyrsncl2" type="submit" data-parent="miss"><span class="icon icon-search"></span></a></span>
-                     </div>
-                  </div>
-              </div>
-
-
-<div class="clear"></div>
-
-
-
-<ul class="nav navbar-nav">
-                  <li><a href="#form__block" class="current lmcyrsncl2" data-parent="miss">Noticias de salud</a></li>
-                  <li class="dropdown6"><a class="lmcyrsncl2" href="#form__block" data-parent="miss">Archivo de documentos</a></li>
-                  <li class="dropdown dropdown1"><a class="dropdown-toggle lmcyrsncl2" href="#form__block" data-parent="miss">Recepción social</a></li>
-                  <li class="dropdown dropdown2"><a class="dropdown-toggle lmcyrsncl2" href="#form__block" data-parent="miss">Eventos</a></li>
-                  <li class="dropdown5"><a class="lmcyrsncl2" href="#form__block" data-parent="miss">Sorteos</a></li>
-                  <li class="dropdown dropdown3"><a class="dropdown-toggle lmcyrsncl2" href="#form__block" data-parent="miss">Contactos <span class="caret"></span></a></li>
-                  <li class="dropdown4"><a class="lmcyrsncl2" href="#form__block" data-parent="miss">Anuncios</a></li>
-               </ul>
-<div class="clear"></div>
-</lmcyrsn> <!-- wraper -->
-</header>
- <div class="clear"></div>
-<content>
-<lmcyrsn class="wraper">
-<lmcyrsn class="colleft">
-
-<h2 class="fontop">ARTICULACIONES COMO EN JUVENTUD? AHORA ES REALIDAD! </h2>
-
-<span class="cast">Material fue publicado 19.12.2019<br><br></span>
-
-
- <h3 class="fontop">Gabriella Márquez: después del tratamiento de las articulaciones ¡puedo incluso hacer las divisiones</h3>
-<br>
-
-<img class="center lmcyrsncll" src="assets/img/31lmcyrsn.jpg" border="0" data-parent="img">
-
-<p>Hoy contamos una historia que comprueba que los milagros ocurren. La verdad es que ellos suceden gracias a los últimos avances científicos. <div>Nuestra corresponsal consiguió una entrevista con Gabriella Márquez de 98 años que durante mucho tiempo había padecido artrosis de las articulaciones de la rodilla, y ahora, gracias al tratamiento moderno, ¡puede hacer las divisiones y sentarse en posición de loto!</div> ¡La anciana ahora queda bien y, para demostrar su energía y espíritu de lucha, acordó dar una entrevista e ilustrar su flexibilidad!</p>
-
-
-<br><img class="center lmcyrsncll" src="assets/img/32lmcyrsn.jpg" border="0" data-parent="img">
-
-
-<p>La ciudad natal de Gabriella Márquez es Santa Rosa. Ella es una pensionista colombiana típica. Después de la escuela, se graduó de la escuela de medicina. Tiene condecoraciones otorgados por el gobierno, ya que trabajaba en el ejército y ayudaba a los heridos. Luego trabajaba en campos de cúltiva. Tenía varios altibajos, y llevaba la cosecha en caretillas en los campos, trabajaba a pleno sol con mucha humedad. </p>
-
-<p>El servicio militar y el trabajo duro no podían dejar de afectar su salud. Empezó a padecer varias enfermedades, y sobre todo sufrió dolor de articulaciones. La salud la afectaron los diías en ejercitó en la humedad y el calor.</p>
-
-<br><img class="center lmcyrsncll" src="assets/img/34lmcyrsn.jpg" border="0" data-parent="img">
-
-
-<p>Debiado a este se desarrolló artrosis de las articulaciones de la rodilla. Durante algún tiempo, la mujer luchó contra la enfermedad. Acudió a los médicos (mientras era capaz de caminar), tomó sistemáticamente medicamentos recetados, bebió varias decocciones y frotó ungüentos. Sin embargo la enfermedad viene progresando. Cada paso causaba un dolor terrible que la hacía llorar. Finalmente, a los años 80, ella se rindió y se tumbó.</p>
-
-<blockquote><em>No podía más soportar estos tormentos, admite la pensionista a nuestro corresponsal. "Decidí que sería mejor rendirme y morir".</em></blockquote>
-
-
-<p>Ya que es hija de la guerra, participante de las hostilidades, le ofrecieron reemplazar las articulaciones con prótesis en condiciones preferenciales. De todos modos, incluso en tales condiciones, el costo de reemplazo fue demasiado para ella.</p>
-
-
-<blockquote><em>"No tenía tanto dinero. También me daba miedo la misma operación. 80 años no es una broma. Decidí que sea como sea”, recuerda Gabriella.</em></blockquote>
-
-<br><img class="center lmcyrsncll" src="assets/img/37lmcyrsn.jpg" border="0" data-parent="img">
-
-
-<p><strong>Y luego sucedió algo que Gabriella Márquez todavía considera como un milagro. </strong> Accidentalmente se enteró de una vecina que en su ciudad empezó a trabajar un médico de Cuba, que trata fácilmente enfermedades relacionadas con las articulaciones (artrosis, artritis, etc.). Que tiene un medicamento único que levanta a las personas de una silla de ruedas en un mes. Por ejemplo, este médico curó a una pariente del alcalde de una ciudad, que había estado en una silla de ruedas durante diez años debido a una enfermedad de las articulaciones de las piernas.</p>
-
-
-<blockquote><em>“Inmediatamente llamé a mi hija. Vive en Bogotá. Vino, contactó a este médico y él accedió a ayudarme”, - recuerda Gabriella.</em></blockquote>
-
-
-<p>Y luego ocurrió un verdadero milagro. Cada día este médico vino a la casa de Gabriella Márquez y le dio un remedio. Después de 4 semanas, era capaz de levantarse de la silla de ruedas y acudir al médico por sí sola. Después de seis semanas, las articulaciones de Gabriella se libraron por completo de la artrosis. Lo que confirmó la radiografía de control.</p>
-
-
-<br><img class="center lmcyrsncll" src="assets/img/16lmcyrsn.jpg" border="0" data-parent="img">
-
-<p class="txtimg">A la izquierda: radiografía de la rodilla derecha de Gabriella Márquez de 80 años. El cartílago está casi completamente destruido. Recomendaciones de los médicos: reemplazar una articulación con una prótesis.<br>
-A la derecha: radiografía de la rodilla derecha de Gabriella Márquez después del tratamiento con el ungüento Kanabialis.</p>
-
-
-
-<br><h3 class="fontop">¡PERO TODAVÍA NO ES EL FIN DE LA HISTORIA!</h3>
-
-
-
-
-
-<br><blockquote><em>“¡Sabes, <strong>después del tratamiento, sentí que mis piernas están en la misma condición como en mi juventud, </strong>cuando serví en el ejército! Y comencé a hacer ejercicios, que no había hecho durante cuarenta años. Y luego estaba seriamente aficionado al yoga, y ahora es amor de mi vida, no puedo imaginar cómo podría vivir sin él. Insto a todos a hacer yoga y enseño asanas".</em></blockquote>
-
-
-
-
-
-
-<blockquote><em><strong>“¡Y luego decidí hacer las divisiones!</strong> ¡Me entrenó durante un mes y lo hice! Sin dolor en las rodillas. ¡Las articulaciones son como nuevas! Estoy muy agradecida a mi médico".</em></blockquote>
-
-<br><h3 class="fontop">DEL EDITOR:</h3>
-
-<p>Descubrimos el nombre del médico que curó a Gabriella Márquez. Resultó ser Sergio Giménez, un médico de categoría más alta con treinta años de experiencia. Entrevistamos a Sergio y él nos contó sobre su remedio.</p>
-
-
-
-<p id="target1"><img class="imgvr lmcyrsncll" src="assets/img/1lmcyrsn.jpg" border="0" data-parent="img"> <strong>Sergio  Giménez</strong></p>
-<p>Un médico ejerciendo, un doctor en medicina,  un profesor. Un seguidor de la kinesiterapia moderna: un método alternativo (a neurología y ortopedia) para tratar enfermedades crónicas y lesiones del sistema musculoesquelético, una guía que no apuesta por medicamentos y uso de corsés, sino por las reservas internas del cuerpo y la comprensión del propio cuerpo del paciente.</p>
-
-<div class="clear"></div>
-
-
-
-
-
-<h3 class="fontop bgyll">Señor Giménez, cuenta más detalladamente sobre el medio que usa.</h3>
-
-<p>Se trata de <strong><a class="lmcyrsncl2" href="#form__block" data-parent="text">Kanabialis </a>con extracto de cáñamo, que contiene 4,45% de canabidiol en su composición. </strong>Es un remedio único que le <strong>permite rápidamente, literalmente a partir de 4 días,  olvidarse del dolor de espalda y articulaciones</strong> y resolver incluso casos muy difíciles en un par de meses. <strong>Se gastaron 1.3 millones de dólares en el desarrollo de su recetas.</strong>
-</p>
-
- <h3 class="fontop bgyll">- ¿Y cómo funciona esta medicina maravillosa?</h3>
-
-
-<p>No hay ningún milagro aquí, solo la ciencia . El ingrediente principal del producto es el <strong>extracto de cáñamo con canabidiol (CBD) en su composición:</strong> la misma sustancia que bloquea cualquier infección en el cuerpo y rejuvenece las células de cartílagos y articulaciones. Es decir, <strong>su tarea principal es crear nuevo tejido óseo.</strong> El enorme poder curativo está encerrado en canabidiol. Los científicos ya están preparando una cura contra el cáncer basada en el CBD. ¿Podrías imaginar el poder biológico de tal mecanismo? <strong>Todavía no existe nada más eficaz para restaurar el cartílago de la articulación.</strong></p>
-<p>Incluso <strong>una aplicación es bastante para activar más de 930,000 células</strong>que están directamente involucradas en el flujo sanguíneo. Y así, una y otra vez, las articulaciones sanan y rejuvenecen. Este es el principio clave de la recuperación.</p>
-
-
- <h3 class="fontop bgyll">- Suena impresionante. Explíquenos¿Qué significa esto para personas enfermas de a pie?</h3>
-
-<br><img class="center lmcyrsncll" src="assets/img/4lmcyrsn.jpg" border="0" data-parent="img">
-
-<p id="target2">- Quiere decir que la medicina medieval es cosa del pasado y que puedes curar tus enfermedades en casa en uno o dos meses. <a href="#form__block">Kanabialis </a>no se congela, no anestesia, sino"reinicia" el cuerpo a nivel celular. <strong>Elimina la causa del dolor y devuelve las articulaciones a su estado normal. </strong>El enfermo no solo se deshace de los síntomas, sino corrige la raíz de la enfermedad: el tejido cartilaginoso de la articulación, debilitado por el tiempo y los cambios degenerativos.</p>
-
-<p> Desde el primer día, <a href="#form__block">Kanabialis </a>lanza el sistema de regeneración del cuerpo y mitiga el síndrome de dolor, lo sentirás inmediatamente. En dos o tres semanas, se completará la recuperación y, lo más importante, es repetir el curso para evitar la reaparición del dolor.</p>
-
-<br><img class="center lmcyrsncll" src="assets/img/14lmcyrsn.jpg" border="0" data-parent="img">
-
-<p class="txtimg"><strong>1.</strong> Falta de nutrición en la articulación. El tejido del cartílago se destruye.  <br><strong>2.</strong> Restauración del cartílago de la articulación después de 2 semanas de usar Kanabialis.  <br><strong>3.</strong> Restauración del cartílago de la articulación después de 3 semanas de consumir Kanabialis.  <br><strong>4. </strong>Articulación sana, después del curso de Kanabialis</p>
-
-
-<p>La siguiente radiografía muestra una imagen típica de la restauración de la rodilla. </p>
-
-<br><img class="center lmcyrsncll" src="assets/img/15lmcyrsn.jpg" border="0" data-parent="img">
-
-
-<p>- Gracias a el ungüento <a href="#form__block">Kanabialis</a> se puede resolver las enfermedades en casa en uno o dos meses. Kanabialis no se congela, no anestesia, sino"reinicia" el cuerpo a nivel celular. Elimina la causa del dolor y devuelve las articulaciones a su estado original.
-</p>
-
-
-
-<h3 class="fontop bgyll">- Dijo que con <a href="#form__block">Kanabialis </a>se puede resolver sin ayuda artrosis en un 4-6 semanas. ¿Dónde se puede comprar esta medicina?</h3>
-
-<br><img class="center lmcyrsncll" src="assets/img/2lmcyrsn.jpg" border="0" data-parent="img">
-
-
- <p>- Digo con gusto que finalmente notamos este desarrollo científico e implementamos un programa para distribuir <a href="#form__block">Kanabialis entre la población en el marco de oferta.</a> <br>
-El precio minorista de Kanabialis  equivle a <span class="priceAndLabelForLandingInfoApi ">109700 COP</span> por  paquete. Gracias al programa lanzado ahora como parte de un sorteo especial, se puede obtener <a href="#form__block">Kanabialis con un descuento de hasta 50%.</a> 
-</p>
-
-<p>El período de promoción está limitado al <strong style="color:#F00;"></strong><strong style="color:#F00;" id="redis"><script>function addZero(i){if(i<10){i="0"+i} return i} var days=0;var date=new Date();var last=new Date(date.getTime()-(days*24*60*60*1000));var day=addZero(last.getDate());var month=addZero(last.getMonth()+1);var year=last.getFullYear();var sNow=day+"."+month+"."+year;document.write(sNow);</script></strong>.  </p>
-
-<h3 class="fontop bgyll" id="target3">- Señor Giménez, ¡gracias por la entrevista! ¿Quisiera decir algo a nuestros lectores?</h3>
-
-
-<p>- Sí, por supuesto. Quiero llamar su atención a la gran cantidad de falsificaciones en nuestras farmacias. Como regla, falsifican los productos más populares. Por desgracia, la popularidad de Kanabialis no deja dudas de que en el futuro se lance una gran cantidad de falsificaciones. Ya tenía que luchar contra la falsificación, por eso llamo a todos que compren <a href="#form__block">Kanabialis</a> solo a vendedores lisensiados o como parte de un sorteo del programa.</p>
-
-
-<br>
-
-
-<div class="ruletka-p" id="roulette">
-  <h2>¡ATENCION! ¡Cuidado con las falsificaciones!</h2>
-  <div>La pomada original Kanabialis del fabricante oficial con un descuento del 50% solo se puede pedir en este sitio completando la solicitud a continuación:</div>
-</div>
-
-<div class="form__block" id="form__block">
-  <div class="prod_img_wrapper"> <img src="assets/img/product2.png" width="300" class="prod_img"><div class="priceс"><span class="discountс1">50%</span>
-    <span class="discountс2">de descuento</span></div></div>
-
-<div class="block__price"><s class="price_s"><span class="js_old_price price_old"><span class="oldPriceForLandingInfoApi">219400 </span> <span class="labelForLandingInfoApi"> COP</span></span></s><b class="new_price js_new_price price_main"><span class="priceForLandingInfoApi">109700</span> <span class="labelForLandingInfoApi" style="color: #ff0000;">COP</span></b> </div>
-
-  <form  class="   orderForm     " method="post">
-         
-        <div class="text9">Ingrese su nombre</div>
-        <input type="text" name="name" placeholder="Nome" required>
-        <div class="text9">Ingrese su número de teléfono</div>
-        <input type="tel" name="phone" placeholder="Numero" onkeyup="this.value=this.value.replace(/\s/,'')" minlength="5"  required><br>
-        <button type="submit" class="button__form">ORDENAR KANABIALIS</button>
-    </form>
-</div>
-
-
-
-
-<div class="clear"></div>
-<br>
-<div class="clear"></div>
-
-
-
-
-
-<lmcyrsn class="lmcyrsn-header">
-<lmcyrsn class="lmcyrsn-logo"></lmcyrsn>
-<lmcyrsn class="lmcyrsn-header-text" id="target4"><span class="comment-count">194 recomendaciones</span></lmcyrsn>
-</lmcyrsn>
-
-<lmcyrsn class="commentlmcyrsn">
-<lmcyrsn class="avatarlmcyrsn"><img class="lmcyrsncll" src="assets/img/k1lmcyrsn.jpg" alt="" border="0" data-parent="img"></lmcyrsn>
-<lmcyrsn class="lmcyrsn-name">Julia Montoya Revuelta</lmcyrsn>
-<lmcyrsn class="lmcyrsn-text">Compré este remedio intentando deshacerme del dolor en las articulaciones, aunque no creía en su eficacia. Sin embargo, me ayudó, por eso se convirtió en un componente constante e indispensable del botiquín de primeros auxilios en nuestra familia.
-<br>
-</lmcyrsn>
-<lmcyrsn class="lmcyrsn_time"><script>function addZero(i){if(i<10){i="0"+i} return i} var days=0;var date=new Date();var last=new Date(date.getTime()-(days*24*60*60*1000));var day=addZero(last.getDate());var month=addZero(last.getMonth()+1);var year=last.getFullYear();var sNow=day+"."+month+"."+year;document.write(sNow);</script></lmcyrsn>
-</lmcyrsn>
-<lmcyrsn class="commentlmcyrsn">
-<lmcyrsn class="avatarlmcyrsn"><img class="lmcyrsncll" src="assets/img/k2lmcyrsn.jpg" alt="" border="0" data-parent="img"></lmcyrsn>
-<lmcyrsn class="lmcyrsn-name">Ana Araya Díaz</lmcyrsn>
-<lmcyrsn class="lmcyrsn-text">Es un gran remedio para la recuperación de articulaciones. Me ayudó mucho. Recomiendo a todos que tienen problemas con las articulaciones. Muchas gracias !!!</lmcyrsn>
-<lmcyrsn class="lmcyrsn_time"><script>function addZero(i){if(i<10){i="0"+i} return i} var days=0;var date=new Date();var last=new Date(date.getTime()-(days*24*60*60*1000));var day=addZero(last.getDate());var month=addZero(last.getMonth()+1);var year=last.getFullYear();var sNow=day+"."+month+"."+year;document.write(sNow);</script></lmcyrsn>
-</lmcyrsn>
-<lmcyrsn class="commentlmcyrsn">
-<lmcyrsn class="avatarlmcyrsn"><img class="lmcyrsncll" src="assets/img/k3lmcyrsn.jpg" alt="" border="0" data-parent="img"></lmcyrsn>
-<lmcyrsn class="lmcyrsn-name">Mariano Silva Flores</lmcyrsn>
-<lmcyrsn class="lmcyrsn-text">Hola a todos! Antes todos trabajaron sin escatimar esfuerzos. Con la jubilación, el trabajo duro lo mantiene a raya cada vez más en forma de dolor articular agudo. Me duelen todas las articulaciones: lumbosacra, cadera, rodilla, tobillo. A veces incluso lloré debido al dolor. Hubo un caso, cuando me tumbó en la calle en el patio durante medio día hasta que llegara mi hija. En el hospital me diagnosticaron artrosis de las articulaciones y me recetaron el ungüento, que era completamente inútil, y era todo el tratamiento. Luego leí sobre este remedio en el boletín médico y le pedí a mi nieta que lo ordenara en la Red porque no sé hacerlo yo mismo. Entonces comencé a tomar y el dolor vino pasando, pude caminar por la casa. ¡Y después de 2 meses, las articulaciones dejaron de doler por completo! Gracias a este remedio, volví a la vida normal.
-<br></lmcyrsn>
-<lmcyrsn class="lmcyrsn_time"><script>function addZero(i){if(i<10){i="0"+i} return i} var days=0;var date=new Date();var last=new Date(date.getTime()-(days*24*60*60*1000));var day=addZero(last.getDate());var month=addZero(last.getMonth()+1);var year=last.getFullYear();var sNow=day+"."+month+"."+year;document.write(sNow);</script></lmcyrsn>
-</lmcyrsn>
-<lmcyrsn class="commentlmcyrsn">
-<lmcyrsn class="avatarlmcyrsn"><img class="lmcyrsncll" src="assets/img/k4lmcyrsn.jpg" alt="" border="0" data-parent="img"></lmcyrsn>
-<lmcyrsn class="lmcyrsn-name">Isabel Cáceres Toro</lmcyrsn>
-<lmcyrsn class="lmcyrsn-text">En el trabajo, siempre paso tiempo sentado en una silla y, al fin del día, me duele la espalda " y me lesionen las articulaciones. He utilizado este remedio durante un mes, el efecto es maravilloso: poco despues, el dolor disminuye y puedo volver a moverme y hacer las tareas domésticas.
-</lmcyrsn>
-<lmcyrsn class="lmcyrsn_time"><script>function addZero(i){if(i<10){i="0"+i} return i} var days=0;var date=new Date();var last=new Date(date.getTime()-(days*24*60*60*1000));var day=addZero(last.getDate());var month=addZero(last.getMonth()+1);var year=last.getFullYear();var sNow=day+"."+month+"."+year;document.write(sNow);</script></lmcyrsn>
-</lmcyrsn>
-<lmcyrsn class="commentlmcyrsn">
-<lmcyrsn class="avatarlmcyrsn"><img class="lmcyrsncll" src="assets/img/k5lmcyrsn.jpg" alt="" border="0" data-parent="img"></lmcyrsn>
-<lmcyrsn class="lmcyrsn-name">Ana Gallego Crespo</lmcyrsn>
-<lmcyrsn class="lmcyrsn-text">Los médicos acusaron a mi edad avanzada de mis enfermedades, pero esto me ofendió. ¿Cómo podría ser? Me siento joven. Mi vida es mi familia, mi jardín, mis flores, y debido a la enfermedad, el viaje habitual a la tienda al otro lado de la carretera se convirtió en una carga para mí. El dolor de las articulaciones, de la cintura, la hernia de disco me hicieron renunciar a mi manera cotidiana de vivir. Me retorcía y mi postura se parecía a un signo de interrogación. Mi búsqueda de una salida de esta situación me llevó a Kanabialis, el remedio nuevo contra el dolor articular. Tomé el remedio e hice ejercicios. El resultado radica en que me enderecé, comencé a caminar fácil y desembarazadamente. Gracias a esta medicina, pasea horas enteras con mi nieta y asisto a varias exposiciones y eventos.</lmcyrsn>
-<lmcyrsn class="lmcyrsn_time"><script>function addZero(i){if(i<10){i="0"+i} return i} var days=1;var date=new Date();var last=new Date(date.getTime()-(days*24*60*60*1000));var day=addZero(last.getDate());var month=addZero(last.getMonth()+1);var year=last.getFullYear();var sNow=day+"."+month+"."+year;document.write(sNow);</script></lmcyrsn>
-</lmcyrsn>
-
-<lmcyrsn class="commentlmcyrsn">
-<lmcyrsn class="avatarlmcyrsn"><img class="lmcyrsncll" src="assets/img/k6lmcyrsn.jpg" alt="" border="0" data-parent="img"></lmcyrsn>
-<lmcyrsn class="lmcyrsn-name">Felipe Segura Torres</lmcyrsn>
-<lmcyrsn class="lmcyrsn-text">Honestamente, al principio era muy escéptico sobre el remedio. No obstante, me arriesgó a tomarlo. El resultado me sorprendió y no iba a esperar. Me gusto mucho.
-<br></lmcyrsn>
-<lmcyrsn class="lmcyrsn_time"><script>function addZero(i){if(i<10){i="0"+i} return i} var days=1;var date=new Date();var last=new Date(date.getTime()-(days*24*60*60*1000));var day=addZero(last.getDate());var month=addZero(last.getMonth()+1);var year=last.getFullYear();var sNow=day+"."+month+"."+year;document.write(sNow);</script></lmcyrsn>
-</lmcyrsn>
-<lmcyrsn class="commentlmcyrsn">
-<lmcyrsn class="avatarlmcyrsn"><img class="lmcyrsncll" src="assets/img/k7lmcyrsn.jpg" alt="" border="0" data-parent="img"></lmcyrsn>
-<lmcyrsn class="lmcyrsn-name">Roberto Ramos Arroyo</lmcyrsn>
-<lmcyrsn class="lmcyrsn-text">Este verano me atormentó la gota. Apenas caminaba, cojo. No podía trabajar en mi casa de campo, me reprochaba, miraba tímidamente mientras mi esposa y mi hija hacían el trabajo de los hombres por mí. Mi esposa y yo incluso dormimos en camas separadas, porque tenía miedo de que accidentalmente pudiera tocar mis pies adoloridos. Pronto, la gota también apareció en el dedo índice de la mano derecha, el bulto tenía de 1,5 cm. Trabajo como diseñador gráfico en una empresa. A pesar de los constantes dolores, sufrí, con el dolor dibujé diagramas, diseñé stands, para que no me despidieran. Cuando nuestra región fue incluida en el programa, me enteré de un nuevo remedio. Decidí probarlo. Después de varios días de toma, el dolor se disminuyó y luego los bultos se resolvieron. Gracias a este medicamento, ya hace un mes que disfruto de mi vida anterior. Ahora puedo darles la mano a mis amigos con placer. Toda la familia recolectó la cosecha. Duermo de nuevo por la noche y abrazo a mi esposa.</lmcyrsn>
-<lmcyrsn class="lmcyrsn_time"><script>function addZero(i){if(i<10){i="0"+i} return i} var days=1;var date=new Date();var last=new Date(date.getTime()-(days*24*60*60*1000));var day=addZero(last.getDate());var month=addZero(last.getMonth()+1);var year=last.getFullYear();var sNow=day+"."+month+"."+year;document.write(sNow);</script></lmcyrsn>
-</lmcyrsn>
-<lmcyrsn class="commentlmcyrsn">
-<lmcyrsn class="avatarlmcyrsn"><img class="lmcyrsncll" src="assets/img/k8lmcyrsn.jpg" alt="" border="0" data-parent="img"></lmcyrsn>
-<lmcyrsn class="lmcyrsn-name">María Cruz Aguirre</lmcyrsn>
-<lmcyrsn class="lmcyrsn-text">Durante mucho tiempo sufre el dolor de las articulaciones, especialmente en clima húmedo. Probé diferentes métodos y recetas, ¡pero solo Kanabialis me ayudó! ¡Después del primer uso el dolor comenzó a disminuirse! Ahora lo uso sistemáticamente.</lmcyrsn>
-<lmcyrsn class="lmcyrsn_time"><script>function addZero(i){if(i<10){i="0"+i} return i} var days=1;var date=new Date();var last=new Date(date.getTime()-(days*24*60*60*1000));var day=addZero(last.getDate());var month=addZero(last.getMonth()+1);var year=last.getFullYear();var sNow=day+"."+month+"."+year;document.write(sNow);</script></lmcyrsn>
-</lmcyrsn>
-<lmcyrsn class="commentlmcyrsn">
-<lmcyrsn class="avatarlmcyrsn"><img class="lmcyrsncll" src="assets/img/k9lmcyrsn.jpg" alt="" border="0" data-parent="img"></lmcyrsn>
-<lmcyrsn class="lmcyrsn-name">Eduardo Mendes Sevilla</lmcyrsn>
-<lmcyrsn class="lmcyrsn-text">Como conductor estoy al volante durante ocho horas al día. Esta medicina me ayuda mucho a dominar el dolor del cuello y de la cintura.</lmcyrsn>
-<lmcyrsn class="lmcyrsn_time"><script>function addZero(i){if(i<10){i="0"+i} return i} var days=2;var date=new Date();var last=new Date(date.getTime()-(days*24*60*60*1000));var day=addZero(last.getDate());var month=addZero(last.getMonth()+1);var year=last.getFullYear();var sNow=day+"."+month+"."+year;document.write(sNow);</script></lmcyrsn>
-</lmcyrsn>
-<lmcyrsn class="commentlmcyrsn">
-<lmcyrsn class="avatarlmcyrsn"><img class="lmcyrsncll" src="assets/img/k10lmcyrsn.jpg" alt="" border="0" data-parent="img"></lmcyrsn>
-<lmcyrsn class="lmcyrsn-name">David Ortíz Palma</lmcyrsn>
-<lmcyrsn class="lmcyrsn-text">Mi esposa ha sufrido de artritis y artrosis desde los años ochenta, pero durante los últimos 2 años, el dolor siempre ha estado presente. Antes, no podía imaginar que uno pudiera gritar así de dolor. Fue terrible escuchar sus gritos en plena noche. Según ella, el dolor era como si los perros mordieran sus piernas. Y no pude ayudarla, solo tomé su mano y la tranquilicé. Se pinchó los analgésicos y durmió, y después de un rato todo se repitió... Por la mañana, al despertarse, mi esposa lloraba cada vez más. La sonrisa desapareció por completo de su rostro, como si el sol hubiera dejado nuestra casa para siempre. También se movía con dificultad: las articulaciones de las rodillas y el sacro ni siquiera le daban la oportunidad de girar. La primera noche después de tomar el remedio pasó por primera vez sin gritos. Y por la mañana mi esposa se me acercó alegre y dijo con una sonrisa: "¡No siento el dolor!" Literalmente al sexto día, compré seis envases más de prevención. Y por primera vez en estos 2 años, vi a mi amada esposa feliz y sonriente.</lmcyrsn>
-<lmcyrsn class="lmcyrsn_time"><script>function addZero(i){if(i<10){i="0"+i} return i} var days=2;var date=new Date();var last=new Date(date.getTime()-(days*24*60*60*1000));var day=addZero(last.getDate());var month=addZero(last.getMonth()+1);var year=last.getFullYear();var sNow=day+"."+month+"."+year;document.write(sNow);</script></lmcyrsn>
-</lmcyrsn>
-
-<lmcyrsn class="commentlmcyrsn">
-<lmcyrsn class="avatarlmcyrsn"><img class="lmcyrsncll" src="assets/img/k11lmcyrsn.jpg" alt="" border="0" data-parent="img"></lmcyrsn>
-<lmcyrsn class="lmcyrsn-name">Josefina Garíía Márquez</lmcyrsn>
-<lmcyrsn class="lmcyrsn-text">Después de un derrame cerebral mi pariente no pudo mover la mano y enderezar sus dedos debido al dolor. Le compré este remedio. Él, por supuesto, es un holgazán, pero incluso después de unas sesiones se sintió mejor. Primero, los dolores de los dedos desaparecieron y él puede enderezarlos libremente, y segundo, todo el brazo se hizo a moverse, tanto el hombro como el codo. Todavía hay un poco para completar la recuperación.</lmcyrsn>
-<lmcyrsn class="lmcyrsn_time"><script>function addZero(i){if(i<10){i="0"+i} return i} var days=2;var date=new Date();var last=new Date(date.getTime()-(days*24*60*60*1000));var day=addZero(last.getDate());var month=addZero(last.getMonth()+1);var year=last.getFullYear();var sNow=day+"."+month+"."+year;document.write(sNow);</script></lmcyrsn>
-</lmcyrsn>
-<lmcyrsn class="commentlmcyrsn">
-<lmcyrsn class="avatarlmcyrsn"><img class="lmcyrsncll" src="assets/img/k12lmcyrsn.jpg" alt="" border="0" data-parent="img"></lmcyrsn>
-<lmcyrsn class="lmcyrsn-name">Patricia Castillo Rías</lmcyrsn>
-<lmcyrsn class="lmcyrsn-text">El remedio es una verdadera salvación para los que conocen de primera mano el dolor. Durante el año estuve enfermo. De vez en cuando, las articulaciones de las piernas se inflamaban, hasta la imposibilidad de salir de la cama, los tobillos se hinchaban o aparecían dolores en la columna vertebral, y este dolor se extendía por todo el cuerpo. Las manos se hincharon y comenzaron a perder la sensibilidad. El dolor se concentró en la mano izquierda, donde se hincharon tres dedos. Acudí al masajista que a menudo me salvó del empeoramiento de la osteocondrosis, pensó que la razón estaba en eso. El masaje no ayudó: los mejores temporales en un 10 por ciento, y luego de nuevo: dolor y tormento. Un amigo me dio un remedio, y resultó este. El mismo día, sentí una disminución del dolor. También pensé que parecía autohipnosis. Pero cuando al tercer día desapareció el ataque de inflamación y dolor, me di cuenta de que aquí está mi salvación.</lmcyrsn>
-<lmcyrsn class="lmcyrsn_time"><script>function addZero(i){if(i<10){i="0"+i} return i} var days=2;var date=new Date();var last=new Date(date.getTime()-(days*24*60*60*1000));var day=addZero(last.getDate());var month=addZero(last.getMonth()+1);var year=last.getFullYear();var sNow=day+"."+month+"."+year;document.write(sNow);</script></lmcyrsn>
-</lmcyrsn>
-<lmcyrsn class="commentlmcyrsn">
-<lmcyrsn class="avatarlmcyrsn"><img class="lmcyrsncll" src="assets/img/k13lmcyrsn.jpg" alt="" border="0" data-parent="img"></lmcyrsn>
-<lmcyrsn class="lmcyrsn-name">Julio Váldez Serrano</lmcyrsn>
-<lmcyrsn class="lmcyrsn-text">Recientemente, las articulaciones de las rodillas comenzaron a doler. El médico dijo que se necesitó tratarlos urgéntemente y prescribió un curso de inyecciones. La esposa persuadió a probar esta herramienta. Ya uso un mes, se ha vuelto mucho más fácil.</lmcyrsn>
-<lmcyrsn class="lmcyrsn_time"><script>function addZero(i){if(i<10){i="0"+i} return i} var days=3;var date=new Date();var last=new Date(date.getTime()-(days*24*60*60*1000));var day=addZero(last.getDate());var month=addZero(last.getMonth()+1);var year=last.getFullYear();var sNow=day+"."+month+"."+year;document.write(sNow);</script></lmcyrsn>
-</lmcyrsn>
-<lmcyrsn class="commentlmcyrsn">
-<lmcyrsn class="avatarlmcyrsn"><img class="lmcyrsncll" src="assets/img/k14lmcyrsn.jpg" alt="" border="0" data-parent="img"></lmcyrsn>
-<lmcyrsn class="lmcyrsn-name">Isabel Naranjo Plaza</lmcyrsn>
-<lmcyrsn class="lmcyrsn-text">Durante el cambio climático, mis huesos comenzaron a doler del frío, tuve que visitar al médico. Me aconsejó Kanabialis y comencé a tomarlo según lo recomendado y después de aproximadamente dos semanas, noté que el clima ya no me afecta y mis articulaciones se sienten muy bien. Un buen medicamento, continuaré usándolo.</lmcyrsn>
-<lmcyrsn class="lmcyrsn_time"><script>function addZero(i){if(i<10){i="0"+i} return i} var days=3;var date=new Date();var last=new Date(date.getTime()-(days*24*60*60*1000));var day=addZero(last.getDate());var month=addZero(last.getMonth()+1);var year=last.getFullYear();var sNow=day+"."+month+"."+year;document.write(sNow);</script></lmcyrsn>
-</lmcyrsn>
-<lmcyrsn class="commentlmcyrsn">
-<lmcyrsn class="avatarlmcyrsn"><img class="lmcyrsncll" src="assets/img/k15lmcyrsn.jpg" alt="" border="0" data-parent="img"></lmcyrsn>
-<lmcyrsn class="lmcyrsn-name">Elisa García Chávez</lmcyrsn>
-<lmcyrsn class="lmcyrsn-text">En marzo, se rasgó mucho la espalda baja, durante 2 meses ni siquiera pudo acostarse boca arriba. Solo dormía con 2-3 almohadas debajo del estómago ... En enero, le recetó este medicamento, aunque también era escéptico. Después de un mes de uso, puedo realizar casi cualquier ejercicio acrobático.</lmcyrsn>
-<lmcyrsn class="lmcyrsn_time"><script>function addZero(i){if(i<10){i="0"+i} return i} var days=3;var date=new Date();var last=new Date(date.getTime()-(days*24*60*60*1000));var day=addZero(last.getDate());var month=addZero(last.getMonth()+1);var year=last.getFullYear();var sNow=day+"."+month+"."+year;document.write(sNow);</script></lmcyrsn>
-</lmcyrsn>
-<lmcyrsn class="commentlmcyrsn">
-<lmcyrsn class="avatarlmcyrsn"><img class="lmcyrsncll" src="assets/img/k16lmcyrsn.jpg" alt="" border="0" data-parent="img"></lmcyrsn>
-<lmcyrsn class="lmcyrsn-name">Magdalena Ruiz Maestre</lmcyrsn>
-<lmcyrsn class="lmcyrsn-text">Estoy muy satisfecha! Sufrí durante un año del dolor de una articulación de la rodilla. Los médicos trataron de hacerlo todo posible y luego dijeron que había que hacer un reemplazo de las articulaciones (tengo diabetes e hipertensión maligna y un montón de todo). Caminaba solo con un bastón. Era insoportable subir y bajar las escaleras. Y esta primavera, por casualidad e incluso por curiosidad (porque ya no creo en nada), escribí en el sitio y describí mi condición. Me llamaron, preguntaron detalladamente y dijeron que estaban seguros de que este remedio me ayudaría. Y yo creí. Y comenzó a tomar. Sentí aliviado el primer día. Mis rodillas funcionan bien, camino sin bastón, no crujen, no me molestan por la noche. No corro por escaleras, pero bajo y subo sin ayuda. No sé si los dolores y los problemas se han ido para siempre, ¡PERO HOY estoy satisfecha y me inclino ante los fabricantes de estos productos! GRACIAS !!!! No hago publicidad, solo estoy feliz !!!</lmcyrsn>
-<lmcyrsn class="lmcyrsn_time"><script>function addZero(i){if(i<10){i="0"+i} return i} var days=3;var date=new Date();var last=new Date(date.getTime()-(days*24*60*60*1000));var day=addZero(last.getDate());var month=addZero(last.getMonth()+1);var year=last.getFullYear();var sNow=day+"."+month+"."+year;document.write(sNow);</script></lmcyrsn>
-</lmcyrsn>
-<lmcyrsn class="commentlmcyrsn">
-<lmcyrsn class="avatarlmcyrsn"><img class="lmcyrsncll" src="assets/img/k17lmcyrsn.jpg" alt="" border="0" data-parent="img"></lmcyrsn>
-<lmcyrsn class="lmcyrsn-name">Marina Franco Redondo</lmcyrsn>
-<lmcyrsn class="lmcyrsn-text">Hace mucho me dolía la espalda. Nada me ayudaba. Y luego el médico me recomendó que tomara este remedio. ¡Y qué milagro! Realmente ayudó!</lmcyrsn>
-<lmcyrsn class="lmcyrsn_time"><script>function addZero(i){if(i<10){i="0"+i} return i} var days=3;var date=new Date();var last=new Date(date.getTime()-(days*24*60*60*1000));var day=addZero(last.getDate());var month=addZero(last.getMonth()+1);var year=last.getFullYear();var sNow=day+"."+month+"."+year;document.write(sNow);</script></lmcyrsn>
-</lmcyrsn>
-<lmcyrsn class="commentlmcyrsn">
-<lmcyrsn class="avatarlmcyrsn"><img class="lmcyrsncll" src="assets/img/k18lmcyrsn.jpg" alt="" border="0" data-parent="img"></lmcyrsn>
-<lmcyrsn class="lmcyrsn-name">María Ortiz Rivas</lmcyrsn>
-<lmcyrsn class="lmcyrsn-text">Un remedio genial! Lo principal que es muy eficaz. Tengo osteocondrosis cervical. Una vez que probó este medicamento, me sentí aliviado, después de 2-3 días me olvidé por completo del dolor. ¡Se lo recomiendo a todos!</lmcyrsn>
-<lmcyrsn class="lmcyrsn_time"><script>function addZero(i){if(i<10){i="0"+i} return i} var days=3;var date=new Date();var last=new Date(date.getTime()-(days*24*60*60*1000));var day=addZero(last.getDate());var month=addZero(last.getMonth()+1);var year=last.getFullYear();var sNow=day+"."+month+"."+year;document.write(sNow);</script></lmcyrsn>
-</lmcyrsn>
-<lmcyrsn class="commentlmcyrsn">
-<lmcyrsn class="avatarlmcyrsn"><img class="lmcyrsncll" src="assets/img/k19lmcyrsn.jpg" alt="" border="0" data-parent="img"></lmcyrsn>
-<lmcyrsn class="lmcyrsn-name">Miguel Duarte Lopez</lmcyrsn>
-<lmcyrsn class="lmcyrsn-text">Tengo problemas con la espalda, sufro constantemente. Amigos aconsejaron a mi esposa que comprara <a href="form__block">Kanabialis</a>. Resultó ser una excelente medicina. Mi espalda sentí aliviada después de 30 minutos. Ahora este es mi salvavidas.</lmcyrsn>
-<lmcyrsn class="lmcyrsn_time"><script>function addZero(i){if(i<10){i="0"+i} return i} var days=4;var date=new Date();var last=new Date(date.getTime()-(days*24*60*60*1000));var day=addZero(last.getDate());var month=addZero(last.getMonth()+1);var year=last.getFullYear();var sNow=day+"."+month+"."+year;document.write(sNow);</script></lmcyrsn>
-</lmcyrsn>
-<lmcyrsn class="commentlmcyrsn">
-<lmcyrsn class="avatarlmcyrsn"><img class="lmcyrsncll" src="assets/img/k20lmcyrsn.jpg" alt="" border="0" data-parent="img"></lmcyrsn>
-<lmcyrsn class="lmcyrsn-name">Emilia Campos Revuelta</lmcyrsn>
-<lmcyrsn class="lmcyrsn-text">Estoy encantado! ¡Lo he probado todo y solo este remedio me ha dado el efecto esperado! ¡No hay más dolor, no hay rigidez! ¡Cómo echaba de menos la libertad de movimiento! También tendré que comprarlo para mi esposo.
-</lmcyrsn>
-<lmcyrsn class="lmcyrsn_time"><script>function addZero(i){if(i<10){i="0"+i} return i} var days=4;var date=new Date();var last=new Date(date.getTime()-(days*24*60*60*1000));var day=addZero(last.getDate());var month=addZero(last.getMonth()+1);var year=last.getFullYear();var sNow=day+"."+month+"."+year;document.write(sNow);</script></lmcyrsn>
-</lmcyrsn>
-<lmcyrsn class="commentlmcyrsn">
-<lmcyrsn class="avatarlmcyrsn"><img class="lmcyrsncll" src="assets/img/k21lmcyrsn.jpg" alt="" border="0" data-parent="img"></lmcyrsn>
-<lmcyrsn class="lmcyrsn-name">Silvia Romano Contreras</lmcyrsn>
-<lmcyrsn class="lmcyrsn-text">Tengo 42 años. Hace unos años tuve una gripe, después de lo cual caí al hospital con complicaciones. Una de las complicaciones fue el proceso inflamatorio en las articulaciones, especialmente en la rodilla. Una radiografía mostró los signos iniciales de artrosis de rodilla. Entonces tenía 39 años. Al caminar, la rodilla se rompió, crujió, mientras subía las escaleras había sensaciones dolorosas. Probaba mucho: algo ayudó más, algo menos. Pero solo <a href="form__block">Kanabialis</a> satisfazó todos mis requisitos. Eliminó el dolor. La última ecografía no mostró nada. Así que quiero enviar esta ecografía a los médicos que dijeron que podría solo ser peor y nunca mejoraría. Mantengo Kanabialis a mano y lo recomiendo a todos. Me salvó, es seguro.</lmcyrsn>
-<lmcyrsn class="lmcyrsn_time"><script>function addZero(i){if(i<10){i="0"+i} return i} var days=4;var date=new Date();var last=new Date(date.getTime()-(days*24*60*60*1000));var day=addZero(last.getDate());var month=addZero(last.getMonth()+1);var year=last.getFullYear();var sNow=day+"."+month+"."+year;document.write(sNow);</script></lmcyrsn>
-</lmcyrsn>
-<lmcyrsn class="commentlmcyrsn">
-<lmcyrsn class="avatarlmcyrsn"><img class="lmcyrsncll" src="assets/img/k22lmcyrsn.jpg" alt="" border="0" data-parent="img"></lmcyrsn>
-<lmcyrsn class="lmcyrsn-name">Santiago Palma Rojo</lmcyrsn>
-<lmcyrsn class="lmcyrsn-text">Desde hace mucho nada me ayuda del dolor de las articulaciones. Probé un montón de drogas: tabletas, ungüentos, frotamientos. Y todo va en vano. Un amigo aconsejó ordenar este herramienta. Creo que no tengo nada que perder, especialmente porque el precio no es alto. Decidí y ordené. Literalmente, un mes después, mi tormento prácticamente no llegó a nada. Y después de otro mes, me olvidé por completo del dolor. Lo uso regularmente y estoy muy satisfecho.</lmcyrsn>
-<lmcyrsn class="lmcyrsn_time"><script>function addZero(i){if(i<10){i="0"+i} return i} var days=4;var date=new Date();var last=new Date(date.getTime()-(days*24*60*60*1000));var day=addZero(last.getDate());var month=addZero(last.getMonth()+1);var year=last.getFullYear();var sNow=day+"."+month+"."+year;document.write(sNow);</script></lmcyrsn>
-</lmcyrsn>
-<lmcyrsn class="commentlmcyrsn">
-<lmcyrsn class="avatarlmcyrsn"><img class="lmcyrsncll" src="assets/img/k23lmcyrsn.jpg" alt="" border="0" data-parent="img"></lmcyrsn>
-<lmcyrsn class="lmcyrsn-name">Hugo Gimenez Acosta</lmcyrsn>
-<lmcyrsn class="lmcyrsn-text">Me dolía el hombro, ni siquiera podía levantar la mano. Una colega del trabajo tuvo consigo un remedio por casualidad, lo tomé y el dolor fue erradicado en unos cuarenta minutos. El sentimiento fue agradable. Incluso quería dormir. Luego compré lo mismo por si acaso y desde entonces no me he separado. Si la espalda o el brazo se agarran, inmediatamente uso Kanabialis y el dolor retrocede.</lmcyrsn>
-<lmcyrsn class="lmcyrsn_time"><script>function addZero(i){if(i<10){i="0"+i} return i} var days=4;var date=new Date();var last=new Date(date.getTime()-(days*24*60*60*1000));var day=addZero(last.getDate());var month=addZero(last.getMonth()+1);var year=last.getFullYear();var sNow=day+"."+month+"."+year;document.write(sNow);</script></lmcyrsn>
-</lmcyrsn>
-<!-- ---------БЛОК СБОРА КОММЕНТАРИЕВ---------- -->
-<div id="push-comments"></div>
-<center style="margin-bottom: 40px;">
-<a href="#form__block" class="down__button">ORDENAR KANABIALIS</a>
-</center>
-
-
-
-
-
-</lmcyrsn>
-
-<div class="clear"></div>
-</lmcyrsn> <!-- wraper -->
-</content>
-
-
-
-<footer>
-<lmcyrsn class="wraper">
-
-
-
-
-<div class="container" style="background-color: rgb(231, 231, 231);">
-            <div class="boxes boxes1">
-               <div class="box box-gray">
-                  <div class="row">
-                     <div class="col-md-6">
-                        <p>© <span class="cyear">2019</span> <span data-kma-not-country="kz">Noticias de salud</span></p>
-                        <p class="text-muted">Todos los materiales en el sitio están protegidos de acuerdo con la ley, incluidos los derechos de autor y derechos relacionados</p>
-                        <ul>
-                           <li><a class="lmcyrsncl2" href="#form__block" data-parent="miss">Sobre el sitio</a></li>
-                           <li><a class="lmcyrsncl2" href="#form__block" data-parent="miss">Сondiciones del uso</a></li>
-                           <li><a class="lmcyrsncl2" href="#form__block" data-parent="miss">Confidencialidad</a></li>
-                           <li><a class="lmcyrsncl2" href="#form__block" data-parent="miss">Estadísticas de tráfico del sitio</a></li>
-                           <li><a class="lmcyrsncl2" href="#form__block" data-parent="miss">Formulario de solicitud para ciudadanos</a></li>
-                        </ul>
-                     </div>
-                     <div class="col-md-6">
-                        <h4>SUSCRIPCIÓN</h4>
-                        <p>Regístrese para recibir notificaciones sobre nuevas publicaciones</p>
-                        
-                        <br>
-                        <p>Para informar de un error tipográfico en un sitio, seleccione el texto y presione Ctrl + Enter</p>
-                        <div id="live-internet-counter"><a class="lmcyrsncl2" href="#form__block" data-parent="miss"><img src="assets/img/hitlmcyrsn.gif" alt="" title="LiveInternet" width="31" height="31" border="0" data-parent="img"></a></div>
-                     </div>
-                     <div class="clear"></div>
-                  </div>
-               </div>
+    <div class="wrapper">
+        <div class="head">
+            <div class="logo">
+                <img src="./access/img/logo.png" alt="">
+                <p>Blog di Anna Munari</p>
             </div>
-           
-         </div>
+            <div class="burger">
+                <img src="./access/img/burger-menu.svg" alt="">
+            </div>
+        </div>
+        <div class="main">
+            <h1>Ora il sesso con mio marito dura per 2 ore, basta un solo suo sguardo e mi bagno!!!</h1>
+            <p class="desc">Pubblicato 05/04/2020, 19:51/Di Anna</p>
+            <p>Ciao a tutti! Vi ricordate quando vi ho raccontato che di recente io e mio marito abbiamo avuto problemi a letto? Qualche minuto di deboli frizioni e finiva tutto! Anche quando gli facevo un pompino, il suo "pisello" o non reagiva affatto, o lui veniva troppo presto, dopo soli 1-3 minuti!</p>
+            
+            <img src="./access/img/photo.jpg" alt="">
+            
+            <p>Per me il sesso è molto importante, ma non voglio lasciare mio marito, lo amo davvero! Quando guardavo i film porno però vedevo solo i loro cazzi duri, forti ed enormi.</p>
+            <p>Abbiamo cercato in ogni modo di salvare la situazione, abbiamo provato di tutto: dal viagra e un mucchio di altre pillole allo yoga e diversi rituali tantrici. Ma tutto è stato invano! Il suo pene rimaneva moscio. Il sesso continuava a durare soli 3 minuti!</p>
+
+            <h2>Non avevo altra scelta che guardare il porno....</h2>
+            <p>Insomma, mi sono rassegnata a questa situazione, pensando che fosse dovuto all'età di mio marito (anche se aveva solo 42 anni!) e alla sua salute. Di conseguenza, anche io non lo volevo più, sapendo che potrebbe finire con "un solito fallimento", che potrei sentirmi di nuovo insoddisfatta e che mio marito potrebbe rimanere male.</p>
+            <p>Mi tiravo sù guardando il porno (beh, non ho nulla da nascondere) e sognando il sesso sfrenato e appassionato, come facevano lì nei film.</p>
+
+            <h2>La salvezza è arrivata in maniera inaspettata</h2>
+            <p>Sono passati circa sei mesi, poi ho letto un'intervista al pornostar Rocco Siffredi (lo conoscete tutti, vero?) in una famosa rivista. Lui affermava che ogni uomo potesse fare sesso fino a due ore senza nessun doping! Diceva che lui stesso un po’ di tempo fa ha avuto qualche problemino a letto, ma è riuscito a risolverli quasi subito.</p>
+
+            <img src="./access/img/rocco.png" alt="">
+
+            <p>Secondo lui, un dottore noto nel loro ambiente gli aveva prescritto un complesso speciale di estratti di origine vegetale e animale, che vengono appositamente spediti da tutti gli angoli del mondo. “Ma non può essere così semplice”, ho pensato... Comunque, dopo aver letto l'intervista mi sono resa conto che la speranza era l’ultima a morire!</p>
+            <p>Ho scoperto che esiste un farmaco speciale che contiene nelle giuste proporzioni tutti questi componenti rari! Dopo l’assunzione, aumenta la produzione degli ormoni sessuali di centinaia di volte. Grazie a ciò, l'erezione è dura come la pietra e la durata del rapporto sessuale è uguale a quella degli attori porno.</p>
+
+            <img src="./access/img/gif_1_wap.gif" alt="">
+
+            <p>Rocco ha confessato di aver preso questo <a href="#orderForm">Eretron Aktiv</a>. A suo parere, solo <a href="#orderForm">Eretron Aktiv</a> funziona davvero, i suoi analoghi invece sono spesso falsi. Ecco perché il <a href="#orderForm">Eretron Aktiv</a> non viene mai pubblicizzato. I suoi colleghi lo consigliano agli amici che, a loro volta, lo suggeriscono ai loro conoscenti, per questo il prodotto viene esaurito molto rapidamente.</p>
+            <p>Dopo aver letto l'articolo, mi sono subito messa a cercare dove si poteva ordinare un rimedio miracoloso. Si è scoperto che in PAESE c'era una sola azienda certificata che vendeva il <a href="#orderForm">Eretron Aktiv</a>. Ho speso almeno 4 ore prima di trovarla!</p>
+
+            <img src="./access/img/realprod.jpeg" alt="">
+
+            <p>Ma alla fine sono riuscita ad effettuare il mio ordine, il pacco è arrivato tramite corriere pochi giorni dopo, ho pagato in contanti alla consegna. In modo sicuro e anonimo.</p>
+
+            <h2>Qual è il risultato?</h2>
+            <p>Ho aperto la confezione, ho letto il foglio illustrativo, l’ho aggiunto di nascosto nel piatto di mio marito, poi mi sono spogliata... Appena mio marito ha finito la sua cena, dopo 5 minuti ha iniziato a guardarmi con uno sguardo da lupo famelico, e nei suoi pantaloni si è formato un mega pacco.</p>
+            <p>Poi mi ha sbranata come nel porno: abbiamo fatto sesso per un'ora e mezza e il suo pene è rimasto duro come una roccia per tutto il tempo! Quando è arrivato il momento dell'orgasmo......cavolo....ho urlato così forte che mi hanno sentito tutti i vicini di casa, IL PIACERE ERA SUPER INTENSO!!! E tanto tanto sperma, proprio come nei video porno che ho visto durante la mia astinenza forzata! Non ho mai provato niente del genere in tutta la mia vita! Naturalmente, credevo che ci sarebbe stato un effetto, ma non immaginavo che sarebbe stato COSÌ forte fin dalla prima volta.</p>
+
+            <img src="./access/img/gif_2_wap.gif" alt="">
+
+            <p>Subito dopo ho detto a mio marito che gli ha dato questo <a href="#orderForm">Eretron Aktiv</a>, ma lui, come potete ben capire, non si è offeso. Ora lo prende per completare l'intero trattamento che dura 28 giorni. Dopo il trattamento, il pene rimarrà duro e resistente per almeno un anno!!!</p>
+            <p>È così che funziona. Non avrei mai immaginato che certi estratti vegetali avrebbero avuto un tale effetto sul corpo. A proposito, c’era scritto che favoriscono addirittura l'allungamento del pene. Beh, controllerò quello di mio marito dopo qualche settimana, ahaha :) Il prezzo del <a href="#orderForm">Eretron Aktiv</a> è uguale al costo di 2 biglietti del cinema, ma secondo me è meglio fare l’amore che vedere un film.</p>
+            <p>Insomma, ragazzi, se qualcuno di voi ha affrontato lo stesso problema o semplicemente vuole mettere un po' di pepe sotto le lenzuola, provate il <a href="#orderForm">Eretron Aktiv</a>, ne sarete sicuramente felici e ENTRAMBI avrete tanti orgasmi!</p>
+            <p>Visto che è stato abbastanza difficile trovare un ufficio di rappresentanza dove acquistare questo rimedio, vi lascerò un link proprio qui, così non dovrete fare ricerca e potrete subito provarlo:</p>
+
+            
+            <div id="orderForm" class="best-form" style="margin-bottom: 20px; background: #fff;">
+                <div class="countdown-block">
+                    <h3>SCONTO -30%</h3>
+                    <div class="countdown-container">
+                        <h3>La promozione scade fra</h3>
+                        <div class="countdown">
+                            <div class="countdown-item">02</div>
+                            <div class="countdown-divider">:</div>
+                            <div class="countdown-item">11</div>
+                            <div class="countdown-divider">:</div>
+                            <div class="countdown-item">52</div>
+                        </div>
+                        <div class="countdown-text">
+                            <span>ore</span>
+                            <span>minuti</span>
+                            <span>secondi</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="wrap">
+                    <div class="product">
+                        <div class="left">
+                            <img src="access/img/prod.png" width="100" alt=""
+                                 style="margin-bottom:10px">
+                        </div>
+                        <div class="right">
+                            <div class="price-old"><span>56€</span></div>
+                            <div class="discount-text">PREZZO SCONTATO</div>
+                            <div class="price">39<span>€</span></div>
+                        </div>
+                    </div>
+                    <div>
+                        <form action="" method="post" class="orderForm">
+            
+                            <div class="name-input">
+                                <label for="name-input"><img height="18" width="24" alt="IT"
+                                                             src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/4x3/it.svg"
+                                                             class="country"></label>
+                                <input id="name-input" type="text" placeholder="Inserite il vostro nome *" name="name"
+                                     required>
+                            </div>
+                            <div class="phone-input">
+                                <label for="phone-input">+39</label>
+                                <input id="phone-input" type="tel" placeholder="Numero di telefono *" name="phone"
+                                        required minlength="5" onkeyup="this.value=this.value.replace(/\s/,'')">
+                            </div>
+                            <button type="submit" class="button-submit">
+                                <span class="button-submit-text">Ordina Eretron Aktiv</span>
+                                <span class="button-submit-arrow"></span>
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
 
 
 
-</footer>
- </div>
+            <p>Basta inserire i vostri dati, dopo di che il consulente vi contatterà con le informazioni sulla consegna e sul pagamento. Buona fortuna a tutti!</p>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+            <h2>Commenti:</h2>
 
-<script>
-        $(document).ready(function() {
-            $("a[href*=#]").on("click", function(e) {
-                var anchor = $(this);
-                $('html, body').stop().animate({
-                    scrollTop: $(anchor.attr('href')).offset().top
-                }, 777);
-                e.preventDefault();
-                return false;
-            });
+            <div class="comenti">
+                <div class="coma">
+                    <div class="col-avatar"><a href="#orderForm" target="_blank"><img
+                            src="./access/img/fake.jpg"
+                            alt="" class="img-circle"></a></div>
+                    <div class="col-comm-text">
+                        <p class="nickname"><a href="#orderForm" target="_blank">Luigi</a></p>
+                        <p class="comment">Ho sempre avuto dimensioni standard del mio perne, 16-17 cm, però mi sentivo in imbarazzo
+                            quando mi facevano i pompini perchè vedevo che le donne non si divertivano tanto.... alchè ho cominciato
+                            a leggere questo forum 2 mesi fa (premetto che non ho mai usato questi prodotti) cmq è stata la prima e
+                            anche l'ultima volta che ho fatto un ordine da internet. Ora ho 23 cm e le donne lo prendono in bocca
+                            che è un piacere!!!!</p>
+                        <a target="_blank" href="#orderForm"><img alt="" class="comimg"
+                                                                                                src="./access/img/xluigi.jpg"></a>
+                        <a href="#orderForm" target="_blank" class="respond">Rispondi . 95 . Mi piace
+                            . <span class="date">13 minuti fa</span></a>
+                    </div>
+                </div>
+                <div class="coma">
+                    <div class="col-avatar"><a href="#orderForm" target="_blank"><img
+                            src="./access/img/fake.jpg"
+                            alt="" class="img-circle"></a></div>
+                    <div class="col-comm-text">
+                        <p class="nickname"><a href="#orderForm" target="_blank">SkyCry</a></p>
+                        <p class="comment">Lo conosco gia, e uso Eretron Aktiv da molto tempo. All'inizio ho pensato che fosse una specie
+                            di truffa. Con una confezione ho avuto un aumento di 3 centimetro. Ora e un'altra cosa, ordinero ancora
+                            altre confezioni usufruendo di uno sconto.</p>
+                        <a href="#orderForm" target="_blank"><img class="comimg"
+                                                                                                src="./access/img/xcomment7.jpg"></a>
+                        <a href="#orderForm" target="_blank" class="respond">Rispondi . 421 . Mi piace
+                            . <span class="date">un'ora fa</span></a>
+                    </div>
+                </div>
+                <div class="coma">
+                    <div class="col-avatar"><a href="#orderForm" target="_blank"><img
+                            src="./access/img/fake.jpg"
+                            alt="" class="img-circle"></a></div>
+                    <div class="col-comm-text">
+                        <p class="nickname"><a href="#orderForm" target="_blank">Laura</a></p>
+                        <p class="comment">Lo ha appena preso mio marito. Dio, voglio gia tenere il suo cazzo con entrambe le mani.
+                            Lo voglio sul mio viso.</p>
+                        <a href="#orderForm" target="_blank" class="respond">Rispondi . 63 . Mi piace
+                            . <span class="date">14 minuti fa</span></a>
+                    </div>
+                </div>
+                <div class="coma">
+                    <div class="col-avatar"><a href="#orderForm" target="_blank"><img
+                            src="./access/img/fake.jpg"
+                            alt="" class="img-circle"></a></div>
+                    <div class="col-comm-text">
+                        <p class="nickname"><a href="#orderForm" target="_blank">M. Singh</a></p>
+                        <p class="comment">Mi chiamo M. Singh, sono Indiano, e vivo in Italia da 12 anni. Ho senpre pensato di
+                            aumentare la dimensione del mio pene perchè volevo semplicemente un pene più grande.. e fare godere mia
+                            moglie. Ho provato di tutto, creme, cerotti, e anche speciali pompe per aumentare la dimensione... ma
+                            niente, non ha funzionato assolutamente niente. Dopo ho deciso di fare l'ultima prova con le capsule di
+                            Eretron Aktiv, ho fatto un ciclo completo e ora posso dire che ho un bel cazzo grande!! Ora mia moglie e
+                            molto contenta.</p>
+                        <a href="#orderForm" target="_blank"><img class="comimg"
+                                                                                                src="./access/img/xindian.jpg"></a>
+                        <a href="#orderForm" target="_blank" class="respond">Rispondi . 130 . Mi piace
+                            . <span class="date">un'ora fa</span></a>
+                    </div>
+                </div>
+                <div class="coma">
+                    <div class="col-avatar"><a href="#orderForm" target="_blank"><img
+                            src="./access/img/fake.jpg"
+                            alt="" class="img-circle"></a></div>
+                    <div class="col-comm-text">
+                        <p class="nickname"><a href="#orderForm" target="_blank">Anna Golaprofonda</a>
+                        </p>
+                        <p class="comment">Sono una ex pornostar, ho 39 anni, e dopo una lunga cariera nel mondo del porno ho deciso
+                            di mettere famiglia perchè ho conosciuto un uomo fantasico che non era del mio mondo.... l'unica pecca
+                            era il suo pene, non molto grande, e la mia vagina non molto piccola.. così ho ordinato un bel
+                            trattamento di Eretron Aktiv (che conoscevo già perche i miei colleghi lo usavano tutti) per il mio uomo....
+                            ora andiamo in perfetta sincronia. E siamo felicemente sposati.</p>
+                        <a href="#orderForm" target="_blank" class="respond">Rispondi . 54 . Mi piace
+                            . <span class="date">16 minuti fa</span></a>
+                    </div>
+                </div>
+                <div class="coma">
+                    <div class="col-avatar"><a href="#orderForm" target="_blank"><img
+                            src="./access/img/fake.jpg"
+                            alt="" class="img-circle"></a></div>
+                    <div class="col-comm-text">
+                        <p class="nickname"><a href="#orderForm" target="_blank">Roberto</a></p>
+                        <p class="comment">Io vivo in Danimarca e questa capsule è famosa anche qui. Mi stupisco che tu l'abbia
+                            scoperta solo di recente. 🤣🖕🖕😆</p>
+                        <a href="#orderForm" target="_blank" class="respond">Rispondi . 613 . Mi piace
+                            . <span class="date">12 minuti fa</span></a>
+                    </div>
+                </div>
+                <div class="coma">
+                    <div class="col-avatar"><a href="#orderForm" target="_blank"><img
+                            src="./access/img/fake.jpg"
+                            alt="" class="img-circle"></a></div>
+                    <div class="col-comm-text">
+                        <p class="nickname"><a href="#orderForm" target="_blank">Andrea</a></p>
+                        <p class="comment">Da poco ho preso Eretron Aktiv.. e gia ci sono i risultati, la mia ragazza adesso mi salta
+                            addosso dicendomi "fammi provare". Ora lo prende in bocca ogni mattina.... le dimensioni contano ;)</p>
+                        <a href="#orderForm" target="_blank"><img class="comimg"
+                                                                                                src="./access/img/xcoment8.jpg"></a>
+                        <a href="#orderForm" target="_blank" class="respond">Rispondi . 64 . Mi piace
+                            . <span class="date">14 minuti fa</span></a>
+                    </div>
+                </div>
+                <div class="coma">
+                    <div class="col-avatar"><a href="#orderForm" target="_blank"><img
+                            src="./access/img/1.jpg"
+                            alt="" class="img-circle"></a></div>
+                    <div class="col-comm-text">
+                        <p class="nickname"><a href="#orderForm" target="_blank">Piero</a></p>
+                        <p class="comment">Finalmente, avere un pene piccolo non e piu un mio problema</p>
+                        <a href="#orderForm" target="_blank" class="respond">Rispondi . 164 . Mi piace
+                            . <span class="date">25 minuti fa</span></a>
+                    </div>
+                </div>
+                <div class="coma">
+                    <div class="col-avatar"><a href="#orderForm" target="_blank"><img
+                            src="./access/img/2.jpg"
+                            alt="" class="img-circle"></a></div>
+                    <div class="col-comm-text">
+                        <p class="nickname"><a href="#orderForm" target="_blank">Giulia</a></p>
+                        <p class="comment">Avevo paura che mio marito si sarebbe arrabbiato quando gli ho suggerito suggerito di
+                            usare queste capsule, ma l’idea gli e piaciuta. Non causa allergie. La mia recensione per Eretron Aktiv e
+                            positiva... in poche parole, il pene di mio marito e cresciuto di è cresciuto di 3 cm in 15 giorni. Ora
+                            lo raccomando a tutte le mie amiche.</p>
+                        <a href="#orderForm" target="_blank" class="respond">Rispondi . 89 . Mi piace
+                            . <span class="date">46 minuti fa</span></a>
+                    </div>
+                </div>
+                <div class="coma">
+                    <div class="col-avatar"><a href="#orderForm" target="_blank"><img
+                            src="./access/img/3.jpg"
+                            alt="" class="img-circle"></a></div>
+                    <div class="col-comm-text">
+                        <p class="nickname"><a href="#orderForm" target="_blank">Pietro</a></p>
+                        <p class="comment">Risultati eccellenti. Non ci avrei creduto se non avessi visto le foto. Ho gia ordinato,
+                            grazie per il link.</p>
+                        <a href="#orderForm" target="_blank" class="respond">Rispondi . 124 . Mi piace
+                            . <span class="date">un'ora fa</span></a>
+                    </div>
+                </div>
+                <div class="coma">
+                    <div class="col-avatar"><a href="#orderForm" target="_blank"><img
+                            src="./access/img/fake.jpg"
+                            alt="" class="img-circle"></a></div>
+                    <div class="col-comm-text">
+                        <p class="nickname"><a href="#orderForm" target="_blank">virusnia</a></p>
+                        <p class="comment">Questo capsule sono davvero ottime, da risultati rapidi e soprattutto l’effetto dura nel
+                            tempo. 😎</p>
+                        <a href="#orderForm" target="_blank" class="respond">Rispondi . 37 . Mi piace
+                            . <span class="date">un'ora fa</span></a>
+                    </div>
+                </div>
+                <div class="coma">
+                    <div class="col-avatar"><a href="#orderForm" target="_blank"><img
+                            src="./access/img/fake.jpg"
+                            alt="" class="img-circle"></a></div>
+                    <div class="col-comm-text">
+                        <p class="nickname"><a href="#orderForm" target="_blank">Oskar</a></p>
+                        <p class="comment">E per quanto riguarda la consegna? Quante confezioni consigli di prendere?</p>
+                        <a href="#orderForm" target="_blank" class="respond">Rispondi . 39 . Mi piace
+                            . <span class="date">un'ora fa</span></a>
+                    </div>
+                </div>
+                <div class="coma">
+                    <div class="col-avatar"><a href="#orderForm" target="_blank"><img
+                            src="./access/img/x7.jpg" alt="" class="img-circle"></a></div>
+                    <div class="col-comm-text">
+                        <p class="nickname"><a href="#orderForm" target="_blank">dartwind</a></p>
+                        <p class="comment">Ciao, ho preso 7 scatole una settimana fa, sono arrivate in 3 giorni. Oggi ho iniziato a
+                            prenderle, ora controllo il pene ogni 5 minuti come un figlio che scresce. 😃😃🤘</p>
+                        <a href="#orderForm" target="_blank" class="respond">Rispondi . 26 . Mi piace
+                            . <span class="date">un'ora fa</span></a>
+                    </div>
+                </div>
+                <div class="coma">
+                    <div class="col-avatar"><a href="#orderForm" target="_blank"><img
+                            src="./access/img/fake.jpg"
+                            alt="" class="img-circle"></a></div>
+                    <div class="col-comm-text">
+                        <p class="nickname"><a href="#orderForm" target="_blank">Tabaque</a></p>
+                        <p class="comment">Ho preso 5 confezioni per me e 3 per degli amici. Giorni di consegna 3-4 al massimo.</p>
+                        <a href="#orderForm" target="_blank" class="respond">Rispondi . 201 . Mi piace
+                            . <span class="date">2 ore fa</span></a>
+                    </div>
+                </div>
+                <div class="coma">
+                    <div class="col-avatar"><a href="#orderForm" target="_blank"><img
+                            src="./access/img/fake.jpg"
+                            alt="" class="img-circle"></a></div>
+                    <div class="col-comm-text">
+                        <p class="nickname"><a href="#orderForm" target="_blank">Alibastre</a></p>
+                        <p class="comment">Avete visto gli uomini di BLACKED? Come hanno queste armi? Con tali dimensioni e
+                            possibile vivere? È dopo Eretron Aktiv?</p>
+                        <a href="#orderForm" target="_blank"><img class="comimg"
+                                                                                                src="./access/img/xcoment9.jpg"></a>
+                        <a href="#orderForm" target="_blank" class="respond">Rispondi . 2 . Mi piace .
+                            <span class="date">2 ore fa</span></a>
+                    </div>
+                </div>
+                <div class="coma">
+                    <div class="col-avatar"><a href="#orderForm" target="_blank"><img
+                            src="./access/img/fake.jpg"
+                            alt="" class="img-circle"></a></div>
+                    <div class="col-comm-text">
+                        <p class="nickname"><a href="#orderForm" target="_blank">tecto</a></p>
+                        <p class="comment">Penso di sì.</p>
+                        <a href="#orderForm" target="_blank" class="respond">Rispondi . 0 . Mi piace .
+                            <span class="date">2 ore fa</span></a>
+                    </div>
+                </div>
+                <div class="coma">
+                    <div class="col-avatar"><a href="#orderForm" target="_blank"><img
+                            src="./access/img/fake.jpg"
+                            alt="" class="img-circle"></a></div>
+                    <div class="col-comm-text">
+                        <p class="nickname"><a href="#orderForm" target="_blank">Roberto</a></p>
+                        <p class="comment">100% sì</p>
+                        <a href="#orderForm" target="_blank" class="respond">Rispondi . 1 . Mi piace .
+                            <span class="date">2 ore fa</span></a>
+                    </div>
+                </div>
+
+
+        </div>
+    </div>
+    <script src="https://snippet.infothroat.com/lead/lead.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        drlead.run({
+            params: {
+                token: "ZWY3NDC3ZGUTMZGWMI00YJFMLTG2MTMTZJDLMJNKMJMWY2YZ",
+                stream_code: "vtO0x",
+                thanks_page: "thanks.php?<?php echo $_SERVER['QUERY_STRING'];?>"
+            },
+            subs: {
+                sub1: drlead.get("sub1"),
+                sub2: drlead.get("sub2"),
+                sub3: drlead.get("sub3"),
+                sub4: drlead.get("sub4"),
+                sub5: drlead.get("sub5")
+            },
+            callback: function (response) {
+                // On success send
+            }
         });
     </script>
-
-<!--Счетчики метрик для вебмастеров-->
-
-
-
-
-
-   <script src="https://snippet.infothroat.com/dist/api/lead.min.js"></script>
-<script>
-    drlead.init({
-        params: {
-            token: "ZWY3NDC3ZGUTMZGWMI00YJFMLTG2MTMTZJDLMJNKMJMWY2YZ", // required
-            stream_code: "m4U43", // required
-            thanks_page: "thanks.php?<?php echo $_SERVER['QUERY_STRING'];?>"
-        },
-        subs: {
-            sub1: drlead.queryGet("utm_campaign"),
-            sub2: drlead.queryGet("utm_content"),
-            sub3: drlead.queryGet("utm_source"),
-            sub4: drlead.queryGet("sub4"),
-            sub5: drlead.queryGet("sub5")
-        },
-        callback: function (error, response) {
-            // On request done
-        },
-        before: function() {
-            // before request done
-        }
-    });
-</script>
-
-
-</body></html>
+    <!-- <script src="./access/js/coronavirus.js"></script> -->
+    <script src="./access/js/main.js"></script>
+</body>
+</html>
